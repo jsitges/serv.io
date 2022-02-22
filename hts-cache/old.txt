@@ -1,0 +1,4 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+05:51:28	242/242	---M--	301	error ('Moved%20Permanently')	text/html	date:Tue,%2022%20Feb%202022%2011:51:27%20GMT	http://serviexpert.com/robots.txt		(from )
+05:51:28	232/232	---M--	301	error ('Moved%20Permanently')	text/html	date:Tue,%2022%20Feb%202022%2011:51:28%20GMT	http://serviexpert.com/	/home/bengala/websites/servitodo/serviexpert.com/index.html	(from )
+05:51:29	232/232	---M--	301	error ('Moved%20Permanently')	text/html	date:Tue,%2022%20Feb%202022%2011:51:29%20GMT	http://serviexpert.com/	/home/bengala/websites/servitodo/serviexpert.com/index.html	(from )
